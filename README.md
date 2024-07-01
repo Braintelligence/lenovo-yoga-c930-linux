@@ -25,7 +25,7 @@ If your main question is "Should I buy this laptop for using with Linux now?" th
 | Thunderbolt 3 | ⚠️ Not tested |  |
 | Keyboard | ✔️ Working |  |
 | Wi-Fi, Bluetooth | ✔️ Working | [fix for kernels older than 5.1-rc1](#older-kernels) |
-| Speakers | ✔️ Working | See [this comment](https://discord.com/channels/618781839338897443/751555910031114310/1257305133675446272) |
+| Speakers | ✔️ Working | See [this comment](https://bugzilla.kernel.org/show_bug.cgi?id=203409#c43) |
 | Headphone plug | ✔️ Working | |
 | Microphone | ✔️ Working | See [blog post for mic and speaker fix](https://gist.github.com/crojewsk/4e6382bfb0dbfaaf60513174211f29cb)|
 | Power Management | ⚠️ Not tested | See [notes](#power-management-issues)
