@@ -25,17 +25,17 @@ If your main question is "Should I buy this laptop for using with Linux now?" th
 | Thunderbolt 3 | ⚠️ Not tested |  |
 | Keyboard | ✔️ Working |  |
 | Wi-Fi, Bluetooth | ✔️ Working | [fix for kernels older than 5.1-rc1](#older-kernels) |
-| Speakers | ⚠️ Partially | [Fix needed](#speaker) for hinge soundbar, bottom speakers not working |
+| Speakers | ✔️ Working | See [this comment](https://discord.com/channels/618781839338897443/751555910031114310/1257305133675446272) |
 | Headphone plug | ✔️ Working | |
 | Microphone | ✔️ Working | See [blog post for mic and speaker fix](https://gist.github.com/crojewsk/4e6382bfb0dbfaaf60513174211f29cb)|
-| Power Management | ⚠️ Partially | critical suspend issues, see [notes](#power-management-issues)
+| Power Management | ⚠️ Not tested | See [notes](#power-management-issues)
 | Touchscreen | ✔️ Working |  |
 | Active pen | ✔️ Working | does not report battery level |
 | Rotation sensor | ✔️ Working |  |
 | Light sensor | ✔️ Working |  |
 | Fingerprint sensor | ❌ Not working | you can track development progress [here](https://github.com/nmikhailov/Validity90) |
-| HDMI output | ⚠️ Partially | Working on kernel 5.16, may work on lower versions as well  |
-| HDMI audio output | ⚠️ Partially | Working on kernel 5.16, may work on lower versions as well |
+| HDMI output | ✔️ Working | Working on kernel 5.16, may work on lower versions as well  |
+| HDMI audio output | ✔️ Working | Working on kernel 5.16, may work on lower versions as well |
 | Webcam | ✔️ Working |  |
 
 ## Fixes
